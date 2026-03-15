@@ -1,2 +1,12 @@
-# solar-energy-forecasting-ml
-Machine learning project predicting solar energy production using weather and time features.
+This project predicts photovoltaic energy production using machine learning.
+
+Tools:
+- Python
+- Pandas
+- NumPy
+- LightGBM
+
+Key techniques:
+- Feature engineering for time series
+- Cyclical encoding of time features
+- Gradient boosting models
