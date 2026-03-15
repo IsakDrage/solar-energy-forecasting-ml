@@ -10,3 +10,6 @@ Key techniques:
 - Feature engineering for time series
 - Cyclical encoding of time features
 - Gradient boosting models
+
+This project was developed together with Martinius Theodor Singdahlsen
+as part of a machine learning course at NTNU.
